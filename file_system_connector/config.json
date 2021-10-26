@@ -1,0 +1,13 @@
+{
+    "task":{
+        "indexingApi": {
+            "uri": "http://dev-kalia-2012.imb.invention.com/iapi_stub",
+            "token": "token1",
+            "kbId": 500
+        },
+
+        "traverse": {
+            "roots": [ "/mnt/c/work/ihs/MbfData" ]
+        }
+    }
+}
